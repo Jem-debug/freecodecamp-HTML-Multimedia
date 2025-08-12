@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+    <main>
+        <h1>The Accountant 2 (2025)</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/The_Accountant_2_poster.jpg" alt="The Account 2 Movie Cover"/>
+        <p>The Accountant 2 is a 2025 American action thriller film directed by Gavin O'Connor and written by Bill Dubuque.</p>
+        <p>
+      <strong>Movie Rating:</strong> 
+      <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span> 
+      (9.2/10)
+    </p>
+
+        <h2>Cast Members</h2>
+<ul>
+    <li><strong>Ben Affleck</strong> as Christian Wolf</li>
+    <li><strong>Jon Bernthal</strong> as Braxton</li>
+    <li><strong>Cynthia Addai-Robinson</strong> as Marybeth Medina</li>
+    <li><strong>J.K. Simmons</strong> as Ray King</li>
+</ul>
+
+    </main>
+</body>
+
+</html>
